@@ -10,6 +10,8 @@ Seu gerente precisa das seguintes informações:
 3.  Custo de Mão de Obra Por Estado
 4. Total de Vendas Geral e Matriz de Vendas
 
+Além disso, pode ser interessante, se o CEO puder visualizar o total de vendas por estado e se as vendas estão acima ou abaixo da média. Seu gerente já sabe que um assunto será abordado pelo CEO durante a apresentação. O CEO está avaliando se continua ou não com a venda de automóveis da marca Jaguar e ele gostaria de saber como evoluíram as vendas de automóveis deste fabricante por ano e por estado.
+
 #### Dashboard construído durante a aula:
 
 ![Dashboard](https://github.com/brunalimap/Power_BI_DSA_2.0/blob/main/Cap-02/imagem01.png "Dashboard")
