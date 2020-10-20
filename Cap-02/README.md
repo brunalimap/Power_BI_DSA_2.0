@@ -14,8 +14,8 @@ Além disso, pode ser interessante, se o CEO puder visualizar o total de vendas 
 
 #### Dashboard construído durante a aula:
 
-![Dashboard](https://github.com/brunalimap/Power_BI_DSA_2.0/blob/main/Cap-02/imagem01.png "Dashboard")
+![Dashboard](https://github.com/brunalimap/Power_BI_DSA_2.0/blob/main/Cap-02/img/imagem01.png "Dashboard")
 
 #### Dashboard com alterações:
 
-![Dashboard](https://github.com/brunalimap/Power_BI_DSA_2.0/blob/main/Cap-02/imagem02.png "Dashboard")
+![Dashboard](https://github.com/brunalimap/Power_BI_DSA_2.0/blob/main/Cap-02/img/imagem02.png "Dashboard")
