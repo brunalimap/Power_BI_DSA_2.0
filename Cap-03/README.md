@@ -1,3 +1,5 @@
+## Estudo de Caso 02
+
 ###  Definição do Problema de Negócio
 
 Você é Analista de Dados na empresa PontoMaximo, uma rede de varejo que vende produtos eletrônicos e eletrodomésticos com lojas espalhadas por diversas cidades do Brasil. A empresa começou sua operação no Brasil em 2012 e atua nos quatro estados da região sudeste mais os estados do Paraná e Bahia. 
