@@ -18,6 +18,12 @@ Reproduzir o dashboard abaixo:
 | Tempo Preparação (mins)  | Tempo da preparação da vendas em minutos  |
 | Margem de Lucro   | Margem de lucro do produto  |
 
+Gráficos apresentados:
+- Média de Vendas Durante o Mês de Março
+- Margem de Lucro por Produto
+- Valor de Venda x Preço Justo
+- KPI - Indicador Chave de Performace(Meta de Margem de Lucro)
+
 #### Dashboard construído proposto:
 
 ![Dashboard](https://github.com/brunalimap/Power_BI_DSA_2.0/blob/main/Cap-04/img/img01.png "Dashboard")
