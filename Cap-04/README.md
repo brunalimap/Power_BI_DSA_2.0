@@ -31,7 +31,7 @@ Gráficos apresentados:
 
 #### Dashboard com alterações: 
 
-Realizada algumas alterações para a visualização
+Realizada algumas alterações na visualização do dashboard com um intuito de aplicar técnicas de Storytelling de Dados.
 
 ![Dashboard](https://github.com/brunalimap/Power_BI_DSA_2.0/blob/main/Cap-04/img/img02.png "Dashboard")
 
