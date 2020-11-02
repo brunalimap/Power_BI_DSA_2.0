@@ -29,7 +29,9 @@ Gráficos apresentados:
 ![Dashboard](https://github.com/brunalimap/Power_BI_DSA_2.0/blob/main/Cap-04/img/img01.png "Dashboard")
 
 
-Dashboard com alterações:
+#### Dashboard com alterações: 
+
+Realizada algumas alterações para a visualização
 
 ![Dashboard](https://github.com/brunalimap/Power_BI_DSA_2.0/blob/main/Cap-04/img/img02.png "Dashboard")
 
