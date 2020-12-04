@@ -1,1 +1,3 @@
 
+## Introdução
+Você  é  o Analista de  Dados  de  uma operadora  de  plano  de  saúde  que atende em quatro regiões do Brasil. Os diretores perceberam que os gastos de seguro  saúde  aumentaramde  forma  considerável  e  precisammonitorar  a evolução dos gastos. Os diretores fizeram diversas perguntas e gostariam de poder visualizar asrespostasem uma única tela ou visualização.Os  dados  disponíveis  correspondem  ao  ano  anterior  dos  usuários  da operadora e possuem as colunas: idade, sexo, imc (índice de massa corpórea), se é criança, se é fumante, a região do usuário e o valor de seguro saúde de cada usuário. Os dados estão no arquivo em anexo.
