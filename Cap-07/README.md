@@ -22,4 +22,6 @@ Seu  trabalho  é  responder  às  perguntas  dos  diretores  em  uma  única vi
 
 ## Solução
 
-#### Dashboard construído para responder as perguntas
+#### Dashboard construído para responder as perguntas:
+
+![Dashboard](https://github.com/brunalimap/Power_BI_DSA_2.0/blob/main/Cap-07/img/img01.png "Dashboard")
