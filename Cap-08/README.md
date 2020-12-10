@@ -7,12 +7,12 @@
 
 Seu  dashboard  deve  conter  os  seguintes  gráficos(escolha  a  opção  de  gráfico  que desejar, mas lembre-se que a visualização será através de smartphone):
 
-• Total monetário de vendas por dia
-• Total monetário de vendas por cidade
-• Média de valor monetário de vendaspor estado
-• Média de valor monetário de vendaspor produto
-• Total de unidades vendidaspor estado e por dia
-• Total de unidades vendidas por produto
+• Total monetário de vendas por dia.
+• Total monetário de vendas por cidade.
+• Média de valor monetário de vendaspor estado.
+• Média de valor monetário de vendaspor produto.
+• Total de unidades vendidaspor estado e por dia.
+• Total de unidades vendidas por produto.
 
 ## Solução
 
