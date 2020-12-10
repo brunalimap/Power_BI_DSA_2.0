@@ -1,7 +1,7 @@
 # Laboratório 03
 
 ## Introdução
- Neste Lab seu trabalho é construir um dashboard no Power BI e ajustá-lo para o layout móvel, a fim de ser visualizado em um smartphone.Os dados contêm problemas (a fim de simular o que acontece na prática e no dia a dia). Antes de sair criando seus gráficos sem critério, analise, interprete e compreenda os dados. O conjunto de dados está na pasta data! Para a coluna de data e de total, lembre-se de ajustar as configurações regionais. Se o formato  de  data  ou  valor decimal  não  estiver  correto  no  Power  BI, a  razão é  que  as configurações regionais não foram ajustadas corretamente.
+ Neste Lab seu trabalho é construir um dashboard no Power BI e ajustá-lo para o layout móvel, a fim de ser visualizado em um smartphone.Os dados contêm problemas (a fim de simular o que acontece na prática e no dia a dia). Antes de sair criando seus gráficos sem critério, analise, interprete e compreenda os dados. O conjunto de dados está na pasta data. Para a coluna de data e de total, lembre-se de ajustar as configurações regionais. Se o formato  de  data  ou  valor decimal  não  estiver  correto  no  Power  BI, a  razão é  que  as configurações regionais não foram ajustadas corretamente.
 
 ## Desafio
 
