@@ -11,7 +11,7 @@ Seu  dashboard  deve  conter  os  seguintes  gráficos(escolha  a  opção  de  
 2. Total monetário de vendas por cidade.
 3. Média de valor monetário de vendaspor estado.
 4. Média de valor monetário de vendaspor produto.
-5. Total de unidades vendidaspor estado e por dia.
+5. Total de unidades vendidas por estado e por dia.
 6. Total de unidades vendidas por produto.
 
 ## Solução
