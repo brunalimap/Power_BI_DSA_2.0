@@ -34,4 +34,16 @@ Haverá diversas reuniões para definição da estratégia de vendas e os relat�
 
 ## Solução
 
+#### Relatório construído para responder as perguntas:
+
+Primeira parte:
+
+![Dashboard](https://github.com/brunalimap/Power_BI_DSA_2.0/blob/main/Cap-10/img/img01.png "Dashboard")
+
+
+Segunda Parte:
+
+![Dashboard](https://github.com/brunalimap/Power_BI_DSA_2.0/blob/main/Cap-10/img/img02.png "Dashboard")
+
+
 
