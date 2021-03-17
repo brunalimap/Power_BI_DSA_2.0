@@ -1,6 +1,10 @@
 # 1.0- Conteúdos Abordados
 
-
+O curso é dividido em 20 módulos e foi dividido em 4 partes principais sendo elas:
+- Análise de Dados com Power BI
+- Gráficos mapas e Dashboards
+- Estatística , Linguagem R, Linguagem Python e Machine Learning
+- SQL Analytics. Automação, Agentes Virtuais, Power Apps
 
 # 2.0- Tópicos
 - [Dashboard - Cap 02](https://github.com/brunalimap/Power_BI_DSA_2.0/tree/main/Cap-02) 
@@ -17,8 +21,8 @@
 
 # 3.0 Próximas Etapas
  
-- [ ] Dashboard Cap 11
-- [ ] Dashboard Cap 12
-- [ ] Estudos de DAX
+- [ ] Dashboard Cap 11.
+- [ ] Dashboard Cap 12.
+- [ ] Estudos de DAX.
 
 
