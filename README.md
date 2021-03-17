@@ -19,6 +19,6 @@
  
 - [ ] Dashboard Cap 11
 - [ ] Dashboard Cap 12
-- [ ] Aulas de DAX
+- [ ] Estudos de DAX
 
 
