@@ -15,15 +15,19 @@ O objetivo deste projeto é aprender conceitos de como realizar acesso a uma API
 #### Dashboard construído:
 
 Primeira parte:
+
 ![Dashboard](https://github.com/brunalimap/Power_BI_DSA_2.0/blob/main/Projetos_extras/img/img01.png "Dashboard")
 
 Segunda parte:
+
 ![Dashboard](https://github.com/brunalimap/Power_BI_DSA_2.0/blob/main/Projetos_extras/img/img02.png "Dashboard")
 
 Terceira parte:
+
 ![Dashboard](https://github.com/brunalimap/Power_BI_DSA_2.0/blob/main/Projetos_extras/img/img03.png "Dashboard")
 
 Quarta parte:
+
 ![Dashboard](https://github.com/brunalimap/Power_BI_DSA_2.0/blob/main/Projetos_extras/img/img04.png "Dashboard")
 
 
@@ -32,6 +36,6 @@ Quarta parte:
 
 ### Próximos Passos
 
-[ ] Coletar dados do CDI via FTP
-[ ] Automatizar a  atualização do relatório
-[ ] Incluir um vídeo do dashboard
+- [ ] Coletar dados do CDI via FTP
+- [ ] Automatizar a  atualização do relatório
+- [ ] Incluir um vídeo do dashboard
