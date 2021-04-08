@@ -21,6 +21,13 @@ Medidas de Dispersão
 
 #### Dashboard construído neste capítulo 
 
+Primeira parte do dashboard:
+![Dashboard](https://github.com/brunalimap/Power_BI_DSA_2.0/blob/main/Cap-11/img/img02.png "Dashboard")
+
+
+Segunda parte do dashboard:
+![Dashboard](https://github.com/brunalimap/Power_BI_DSA_2.0/blob/main/Cap-11/img/img01.png "Dashboard")
+
 
 
 
