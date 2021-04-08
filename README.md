@@ -22,8 +22,8 @@ O curso é dividido em 20 módulos e foi dividido em 4 partes principais sendo e
 
 # 3.0 Próximas Etapas
  
-- [ ] Dashboard Cap 11.
+- [x] Dashboard Cap 11.
 - [ ] Dashboard Cap 12.
-- [ ] Estudos de DAX.
+- [x] Dashboard Indicadores financeiros.
 
 
