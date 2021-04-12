@@ -7,7 +7,7 @@ O curso é dividido em 20 módulos e foi dividido em 4 partes principais sendo e
 - SQL Analytics. Automação, Agentes Virtuais, Power Apps
 
 # 2.0- Tópicos
-- [Projeto Extras](https://github.com/brunalimap/Power_BI_DSA_2.0/blob/main/Projetos_extras/README.md) 
+- [Projetos Extras](https://github.com/brunalimap/Power_BI_DSA_2.0/blob/main/Projetos_extras/README.md) 
 - [Dashboard - Cap 02](https://github.com/brunalimap/Power_BI_DSA_2.0/tree/main/Cap-02) 
 - [Dashboard - Cap 03](https://github.com/brunalimap/Power_BI_DSA_2.0/tree/main/Cap-03)   
 - [Dashboard - Cap 04](https://github.com/brunalimap/Power_BI_DSA_2.0/tree/main/Cap-04)
