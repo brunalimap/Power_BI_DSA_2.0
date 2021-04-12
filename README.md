@@ -17,6 +17,7 @@ O curso é dividido em 20 módulos e foi dividido em 4 partes principais sendo e
 - [Dashboard - Cap 08](https://github.com/brunalimap/Power_BI_DSA_2.0/tree/main/Cap-08) 
 - [Dashboard - Cap 09](https://github.com/brunalimap/Power_BI_DSA_2.0/tree/main/Cap-09)
 - [Dashboard - Cap 10](https://github.com/brunalimap/Power_BI_DSA_2.0/tree/main/Cap-10)
+- [Dashboard - Cap 11](https://github.com/brunalimap/Power_BI_DSA_2.0/blob/main/Cap-11/README.md)
 
 
 
